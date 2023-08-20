@@ -1,0 +1,13 @@
+{
+  "name": "playwright_poc",
+  "version": "1.0.0",
+  "description": "Playwright POC",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Amit",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  }
+}
